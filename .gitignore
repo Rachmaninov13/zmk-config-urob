@@ -7,3 +7,5 @@ zephyr
 zmk
 draw/base.yaml
 draw/overview.yaml
+
+.zmk/
